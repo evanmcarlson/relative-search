@@ -10,6 +10,7 @@ This project depends on multiple user libraries:
 * Apache Commons Text
 * Eclipse Jetty
 * MariaDB JDBC Driver
+
 In order to launch the program, you will need to first setup these user libraries in your IDE.
 Next, download the repository and import it to your IDE as a Java Project.
 You may need to configure the build path to include the user libraries previously imported.
