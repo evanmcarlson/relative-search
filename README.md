@@ -12,7 +12,9 @@ This project depends on multiple user libraries:
 * MariaDB JDBC Driver
 
 In order to launch the program, you will need to first setup these user libraries in your IDE.
+
 Next, download the repository and import it to your IDE as a Java Project.
+
 You may need to configure the build path to include the user libraries previously imported.
 Launch the program on your local IP address by running the program in your IDE and opening a browser to localhost:8080
 
